@@ -2,7 +2,7 @@
 
 一个打开就能用的 JLPT N1 背词网页，不用注册，也不用安装。
 
-**立即使用：https://weilong-lab.github.io/n1-word-book/**
+**立即使用：https://logitlong.github.io/n1-word-book/**
 
 ## 特色
 
@@ -86,6 +86,6 @@
 
 ## 说明
 
-- 释义、例句和题目由 AI 辅助编写，没有逐条人工校对，可能存在错误。遇到问题欢迎[提交 Issue](https://github.com/weilong-lab/n1-word-book/issues)。
+- 释义、例句和题目由 AI 辅助编写，没有逐条人工校对，可能存在错误。遇到问题欢迎[提交 Issue](https://github.com/logitlong/n1-word-book/issues)。
 - 例句音频由语音合成生成，个别读音或声调可能不准确。学声调时请以词条的声调线和牌组录音为准。
 - 词库内容的版权归原权利人所有。如有版权问题，请通过 Issue 联系。
